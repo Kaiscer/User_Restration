@@ -1,1 +1,1 @@
-Basic desktop App For gym management
+Basic desktop App for gym management

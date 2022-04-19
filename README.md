@@ -1,1 +1,1 @@
-Basic desktop application to manage the membership of a gym
+Basic desktop App For gym management
